@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0ddd3b0-496b-45c1-acab-99ec043ea3a6" name="shell" url="http://users.metropolia.fi/~jorib/public_html">
+        <fileTransfer host="shell.metropolia.fi" port="22" rootFolder="/home1-3/j/jorib" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
