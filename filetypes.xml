@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="Exercise1" type="JSX Harmony" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="dependency diagram" />
+      <removed_mapping ext="env" approved="true" type="ActionScript" />
     </extensionMap>
   </component>
 </application>
